@@ -3,7 +3,6 @@ __pycache__/
 *.db
 .vscode/
 snapshots/
-postprocess/
 config.json
 launch.json
 settings.json
